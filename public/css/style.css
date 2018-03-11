@@ -1,0 +1,36 @@
+.form-signin {
+    width: 100%;
+    max-width: 420px;
+    padding: 15px;
+    margin: 0 auto;
+}
+.form-signin .form-label-group{
+    margin-bottom: 10px;
+}
+.glyphicon{
+    width: 10px;
+    height: 10px;
+}
+.remove{
+    cursor: pointer;
+}
+.hide{
+    opacity: 0;
+    transition: 1s;
+}
+.categories input{
+    max-width: 200px;
+}
+.list-group-item input{
+    display: inline;
+}
+#content{
+    min-height: calc(100vh - 200px);
+}
+#notifications{
+    width: 600px;
+    bottom: 0px;
+    height: 200px;
+    margin: 0 auto;
+    position: relative;
+}
